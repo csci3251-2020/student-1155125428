@@ -23,3 +23,5 @@ and a beginner of GitHub.
  CSCI 3250  | Computer and Society
  CSCI 3251  | Engineer Practicum
  ENGG 2430  | Engineer Probability
+
+![](milestone2.png)
